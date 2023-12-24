@@ -1,24 +1,27 @@
-# README
+# アプリケーション名
+Wisdom Harbor
+# アプリケーション概要
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# URL
 
-Things you may want to cover:
+# テスト用アカウント
 
-* Ruby version
+# 利用方法
 
-* System dependencies
+# アプリケーションを作成した背景
 
-* Configuration
+# 洗い出した要件
+[要件を定義したシート](https://docs.google.com/spreadsheets/d/1pKo2gA4GlzT-DhRCGkVkvPYu7caMMm8jFkSmQeEnGBg/edit?usp=sharing)
+# 実装した機能についての画像やGIFおよびその説明
 
-* Database creation
+# 実装予定の機能
 
-* Database initialization
+# データベース設計
 
-* How to run the test suite
+# 画面遷移図
 
-* Services (job queues, cache servers, search engines, etc.)
+# 開発環境
 
-* Deployment instructions
+# ローカルでの動作方法
 
-* ...
+# 工夫したポイント
